@@ -1,3 +1,5 @@
+//We Run the game through the Breakout Class
+
 package Project;
 
 import javax.swing.JFrame;
